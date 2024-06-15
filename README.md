@@ -23,7 +23,7 @@ Recipe Generator is a mobile app built with React Native and Expo. It helps user
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/recipe-generator.git
+    git clone (https://github.com/MeldinRadoncic/ReactNativeRecipeGenerator.git)
     cd recipe-generator
     ```
 
